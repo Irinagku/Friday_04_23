@@ -1,2 +1,7 @@
 my first file today
 second line here
+more changes can be here
+
+Commit is almost like taking a picture of the changes at certain moment compared to previous moment
+
+It contains the changes you made and author of the changes
