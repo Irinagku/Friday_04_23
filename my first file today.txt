@@ -7,3 +7,6 @@ Commit is almost like taking a picture of the changes at certain moment compared
 It contains the changes you made and author of the changes
 
 Just looking at the changes
+
+
+checking work
